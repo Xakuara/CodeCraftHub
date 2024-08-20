@@ -11,3 +11,26 @@ const connectDB = async () => {
   }
 };
 module.exports = connectDB;
+
+[
+  {
+    "name": "John Doe",
+    "password": "password123"
+  },
+  {
+    "name": "Jane Smith",
+    "password": "password456"
+  },
+  {
+    "name": "Alex Wong",
+    "password": "password789"
+  },
+  {
+    "name": "Emily Jones",
+    "password": "passwordabc"
+  },
+  {
+    "name": "Michael Brown",
+    "password": "passwordxyz"
+  }
+]
